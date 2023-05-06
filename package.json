@@ -1,0 +1,6 @@
+{
+    "scripts" : {
+    "start" : "node ./bin/server.js",
+    "test": "echo \"Error: no test specified"
+}
+}
